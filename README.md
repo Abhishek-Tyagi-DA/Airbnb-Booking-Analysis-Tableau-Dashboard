@@ -11,4 +11,4 @@ In this challenge, I leveraged a dataset I previously analyzed in Python during 
 In this dashboard, I've analyzed data focusing on customers who haven't canceled bookings and whose country is known. I've used this data to answer business questions and draw insights.
 
 
-For this purpose, I utilized the Tableau Pane for the data wrangling and Tableau Public for the Dashboard creation. This Project helped me get a working knowledge of Power BI and helped me with get acquainted with the challenges involved in handling real-world large datasets and how to tackle those problems. Through this Project, I Showed my problem-solving skills.
+For this purpose, I utilized the Tableau Pane for the data wrangling and Tableau Public for the Dashboard creation. This Project helped me get a working knowledge of Power BI and helped me get acquainted with the challenges involved in handling real-world large datasets and how to tackle those problems. Through this Project, I Showed my problem-solving skills.
