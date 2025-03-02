@@ -1,4 +1,4 @@
-# OYO-Booking-Analysis-Tableau-Dashboard
+# Airbnb-Booking-Analysis-Tableau-Dashboard
 
 https://public.tableau.com/app/profile/abhishek.tyagi4632/viz/Hotelbookinganalysis_17132030943310/Dashboardonhotelbooking
 
