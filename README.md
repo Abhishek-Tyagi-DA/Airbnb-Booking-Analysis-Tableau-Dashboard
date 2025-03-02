@@ -1,6 +1,6 @@
-# Airbnb-Booking-Analysis-Tableau-Dashboard
+# Booking.com-Hotel-Booking-Analysis-Tableau-Dashboard
 
-![Tableau Dashboard](https://github.com/user-attachments/assets/e7b609cd-d7fc-4402-adac-0af141075f6a)  
+![Image](https://github.com/user-attachments/assets/782a529c-1a6b-4391-902e-4b97e7986142) 
 
 ## **Overview**  
 This project focuses on analyzing **hotel booking data** to uncover trends and insights into customer behavior, specifically for **non-canceled bookings** where the customer's country of origin is known. The analysis was conducted using **Tableau**, leveraging its powerful data visualization and dashboarding capabilities to create an interactive and insightful dashboard.  
