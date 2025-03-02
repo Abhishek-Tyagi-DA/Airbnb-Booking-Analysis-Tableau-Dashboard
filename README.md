@@ -1,4 +1,4 @@
-# Booking.com | Hotel Booking Analysis | Tableau Dashboard
+# Booking.com - Hotel Booking Analysis | Tableau Dashboard
 
 ![Image](https://github.com/user-attachments/assets/782a529c-1a6b-4391-902e-4b97e7986142) 
 
